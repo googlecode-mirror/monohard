@@ -1,4 +1,4 @@
-PANEL WEB
+=PANEL WEB=
 
 -descomprimir "webpanel.zip" y subir la carpeta webpanel a tu servidor.
 
@@ -6,7 +6,7 @@ PANEL WEB
 
 .configura la hoja "conexion.php" con los datos de conexión de tu DB.
 
-CLIENTE .EXE
+=CLIENTE .EXE=
 
 -Abrir el proyecto "monohard" de c# en .net 2008 y configurar la clase "configuracion.cs".
 
@@ -21,3 +21,11 @@ public string password = "password"; // Password Gmail
 luego compilar presionando f5 .
 
 el cliente ya debería conectar a el servidor.
+
+= USUARIO Y CONTRASEÑA POR DEFECTO=
+
+usuario : admin
+
+password : admin
+
+(modificar desde la DB).
