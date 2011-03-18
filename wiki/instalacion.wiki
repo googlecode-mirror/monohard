@@ -15,6 +15,7 @@ configurar los siguientes parametros:
 
 public string server = "http://localhost/mh/webpanel/cmd.php"; // URL del archivo cmd.php
 public string correo="user@gmail.com"; //Usuario Gmail
+
 public string password = "password"; // Password Gmail
 
 luego compilar presionando f5 .
