@@ -11,9 +11,9 @@ la contraseña por defecto es : admin
 
 = COMANDOS =
 
--img
--url
--msg
+= -img =
+= -url =
+= -msg  =
 
 
 = MODO DE USO =
